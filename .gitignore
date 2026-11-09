@@ -1,0 +1,15 @@
+bin/
+obj/
+*.user
+*.suo
+*.db
+*.db-shm
+*.db-wal
+.vs/
+.idea/
+
+.packages/
+.http-cache/
+.tmp/
+.restore-diagnostic*.log
+NuGet.Config
